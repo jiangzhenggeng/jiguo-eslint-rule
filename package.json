@@ -1,0 +1,8 @@
+{
+  "name": "jiguo-eslint-rule",
+  "version": "0.0.1",
+  "description": "jiguo-eslint-rule",
+  "main": ".eslintrc.js",
+  "author": "jiangzg",
+  "license": "MIT"
+}
